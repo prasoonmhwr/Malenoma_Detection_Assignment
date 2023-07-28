@@ -1,5 +1,5 @@
 # Malenoma_Detection_Assignment
-> Buit a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+> Built a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 
 ## Table of Contents
@@ -7,13 +7,10 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+- The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC)
 
 ## Technologies Used
 - Python
@@ -24,14 +21,10 @@
 - Pandas
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
+- Accuracy on initial data - Training: 0.9035, Validation: 0.2609
+- Accuracy on optimised and agumented data - Training: 0.4799 , Validation: 0.3043
+- Accuracy on class rebalanced data - Training: 0.9566 , Validation: 0.8151
 
 
 ## Contact
-Created by [@prasoonmhwr] - feel free to contact me!
-
+Created by [@prasoonmhwr](https://github.com/prasoonmhwr) - feel free to contact me!
